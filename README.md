@@ -1,1 +1,1 @@
-I am a Software engineer from Nairobi Kenya.i am a leaner who love to code.i enjoy being challenged and engaging with Software Applications that require me to work outside my comfort and knowledge set. Beside programming am also a Gamer 🎮 
+
