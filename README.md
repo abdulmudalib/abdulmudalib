@@ -16,7 +16,7 @@
 
 
 
-## Africa's & World's Best Developer!!
+## Somali Developer!
 
 - 🔭 I’m currently working on [Restful API with Flask](https://vuejsexamples.com/task-list-with-vue-js/)
 - 🌱 I’m currently learning everything 🤣
