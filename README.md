@@ -32,12 +32,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AbdulmutalibM11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brianmurutu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianmurutu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brianmurutu" height="30" width="40" /></a>
-<a href="https://codesandbox.com/brianmurutu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brianmurutu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mudash.munir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="officialbrianmurutu" height="30" width="40" /></a>
-<a href="https://instagram.com/mudalip._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sir_brian_ke" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cyberlion technologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberlion technologies" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Abdulmutalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianmurutu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mutalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brianmurutu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mutalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="officialbrianmurutu" height="30" width="40" /></a>
+<a href="https://instagram.com/mutalib._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sir_brian_ke" height="30" width="40" /></a>
 
 </p>
 <br/>
