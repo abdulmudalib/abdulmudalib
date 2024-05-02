@@ -62,7 +62,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <br/>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/murutubrian"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="murutubrian" /></a><a  />
+<p><a href="https://www.buymeacoffee.com/murutubrian"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mutalib" /></a><a  />
 </a></p><br><br>
 
 
