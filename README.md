@@ -19,13 +19,11 @@
 
 - 🔭 I’m currently working on [Restful API with Flask](https://vuejsexamples.com/task-list-with-vue-js/)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Developer
 - 🤝 I’m looking for help with [Designing a perfect Dashboard using VueJS](https://www.creative-tim.com/product/vue-material-dashboard)
-- 🥅 2024 InshaaAllah Goals: Learn more about web3 & Software Frameworks
+- 🥅  Learn more about web3 & Software Frameworks
 - 🤝  I'm open to collaborating on interesting projects
 -✉️  You can contact me at mutalibmurshid@gmail.com
-- 📝 I regularly write articles on [https://cyberliontechnologies.com](https://cyberliontechnologies.com)
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 
 <h3 align="left">Connect with me:</h3>
