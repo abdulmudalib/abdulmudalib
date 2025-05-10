@@ -34,16 +34,11 @@
   <a href="https://linkedin.com/in/abdulmutalib-murshid" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulmutalib-murshid" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/mutalib" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mutalib" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/mutalib" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mutalib" height="30" width="40" />
-  </a>
   <a href="https://instagram.com/mutalib._" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mutalib._" height="30" width="40" />
   </a>
 </p>
+
 
 <br/>
 
