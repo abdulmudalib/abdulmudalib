@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/AbdulmutalibM11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brianmurutu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Abdulmutalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianmurutu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulmutalib-murshid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianmurutu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mutalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="brianmurutu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mutalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="officialbrianmurutu" height="30" width="40" /></a>
 <a href="https://instagram.com/mutalib._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sir_brian_ke" height="30" width="40" /></a>
