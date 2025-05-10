@@ -15,7 +15,7 @@
 
 
 
-## Somali Developer!
+## Sofware Developer!
 
 - 🔭 I’m currently working on [Restful API with Flask](https://vuejsexamples.com/task-list-with-vue-js/)
 - 🌱 I’m currently learning everything 🤣
