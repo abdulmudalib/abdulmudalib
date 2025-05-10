@@ -75,8 +75,9 @@
   </a>
 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg" alt="laravel" width="100" height="100"/>
+  <img src="https://path-to-laravel-logo-image" alt="laravel" width="100" height="100"/>
 </a>
+
 
 
 
