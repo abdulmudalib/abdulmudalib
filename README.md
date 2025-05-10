@@ -31,9 +31,10 @@
   <a href="https://twitter.com/sudo_44" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudo_44" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/abdulMutalib murshid" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulMutalib murshid" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/abdulmutalib-murshid-189031253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdulmutalib Murshid" height="30" width="40" />
+</a>
+
   <a href="https://instagram.com/mutalib._" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mutalib._" height="30" width="40" />
   </a>
