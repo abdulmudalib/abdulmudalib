@@ -75,8 +75,8 @@
   </a>
 
  <!-- Laravel -->
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg" alt="laravel" width="40" height="40"/>
+<a href="https://laravel.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
 </a>
 
 
