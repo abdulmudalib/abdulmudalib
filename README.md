@@ -76,8 +76,11 @@
 
  <!-- Laravel -->
 <a href="https://laravel.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" 
+       alt="laravel" 
+       style="width: 40px; height: 40px; object-fit: contain;" />
 </a>
+
 
 
 
