@@ -4,10 +4,7 @@
 ## Sofware Developer!
 
 - I’m currently working on [Restful API with Flask](https://vuejsexamples.com/task-list-with-vue-js/)
-- I’m currently learning everything 
--  I’m looking to collaborate with other Developer.
 -  I’m looking for help with [Designing a perfect Dashboard using VueJS](https://www.creative-tim.com/product/vue-material-dashboard)
-- 🥅  Learn more about web3 & Software Frameworks.
 - I'm open to collaborating on interesting projects
 -✉️  You can contact me at mutalibmurshid@gmail.com
 
