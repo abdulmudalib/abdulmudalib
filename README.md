@@ -3,13 +3,10 @@
 
 ## Sofware Developer!
 
- -I’m working on a Laravel REST API backend deployed on AWS Lambda with API Gateway for serverless architecture.
- 
- -I’m learning how to monitor and log Laravel applications efficiently using AWS CloudWatch and X-Ray.
- 
--I'm open to collaborating on interesting projects.
+ I’m currently building a Laravel REST API backend deployed on AWS Lambda with API Gateway for a fully serverless architecture. I'm exploring efficient monitoring and logging using AWS CloudWatch and X-Ray.
+I'm open to collaborating on innovative and impactful projects—especially those involving Laravel, cloud infrastructure, or DevOps.
   
--✉️ You can contact me at mutalibmurshid@gmail.com
+✉️ You can contact me at mutalibmurshid@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
