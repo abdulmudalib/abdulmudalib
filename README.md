@@ -3,10 +3,13 @@
 
 ## Sofware Developer!
 
-- I’m currently working on [Restful API with Flask](https://vuejsexamples.com/task-list-with-vue-js/)
--  I’m looking for help with [Designing a perfect Dashboard using VueJS](https://www.creative-tim.com/product/vue-material-dashboard)
-- I'm open to collaborating on interesting projects
--✉️  You can contact me at mutalibmurshid@gmail.com
+ -I’m working on a Laravel REST API backend deployed on AWS Lambda with API Gateway for serverless architecture.
+ 
+ -I’m learning how to monitor and log Laravel applications efficiently using AWS CloudWatch and X-Ray.
+ 
+-I'm open to collaborating on interesting projects.
+  
+-✉️ You can contact me at mutalibmurshid@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
