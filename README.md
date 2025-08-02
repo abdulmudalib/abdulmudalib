@@ -1,4 +1,7 @@
-# Welcome to My GitHub Profile!
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Mutalib+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;+%E2%9A%99%EF%B8%8F" alt="" width="650" height="55">
+
+
+## Sofware Developer!
 
 I’m currently building a Laravel REST API backend deployed on AWS Lambda with API Gateway for a fully serverless architecture. I'm exploring efficient monitoring and logging using AWS CloudWatch and X-Ray.
 I'm open to collaborating on innovative and impactful projects—especially those involving Laravel, cloud infrastructure, or DevOps.
