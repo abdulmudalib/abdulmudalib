@@ -1,4 +1,5 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Mutalib+👋🏻;I+am+a+Software+Developer,+Network+and+Cloud+Infrastructure+Specialist+🧑🏻‍💻;⚙️&repeat=true" alt="Typing SVG" width="650" height="55" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=750&height=55&lines=Hey!+It's+Mutalib+👋🏻;I+am+a+Software+Engineer,+Cloud+and+DevOps+Specialist+🧑🏻‍💻;⚙️&repeat=true" alt="Typing SVG" width="750" height="55" />
+
 
 
 
